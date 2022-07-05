@@ -2,6 +2,7 @@
 Hackerrank-Java3
 Problem 3 of HackerRank Java
 
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
